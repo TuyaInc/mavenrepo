@@ -3,13 +3,15 @@
   <groupId>com.tuya.smart</groupId>
   <artifactId>tuyaCamera</artifactId>
   <versioning>
-    <release>3.0.7</release>
+    <release>3.0.8</release>
     <versions>
       <version>3.0.5</version>
       <version>3.0.6</version>
       <version>3.0.6h1</version>
       <version>3.0.7</version>
+      <version>3.0.7h1</version>
+      <version>3.0.8</version>
     </versions>
-    <lastUpdated>20190520114143</lastUpdated>
+    <lastUpdated>20190611101000</lastUpdated>
   </versioning>
 </metadata>
