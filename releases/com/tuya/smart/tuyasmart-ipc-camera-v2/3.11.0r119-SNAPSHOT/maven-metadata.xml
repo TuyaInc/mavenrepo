@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tuya.smart</groupId>
+  <artifactId>tuyasmart-ipc-camera-v2</artifactId>
+  <version>3.11.0r119-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190629.123910</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190629123910</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>3.11.0r119-20190629.123910-1</value>
+        <updated>20190629123910</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.11.0r119-20190629.123910-1</value>
+        <updated>20190629123910</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
