@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tuya.smart</groupId>
   <artifactId>tuyaCamera</artifactId>
-  <version>3.11.0r119</version>
+  <version>3.11.0r119-SNAPSHOT</version>
   <packaging>aar</packaging>
 </project>
