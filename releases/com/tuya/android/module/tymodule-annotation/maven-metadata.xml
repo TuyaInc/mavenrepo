@@ -3,11 +3,12 @@
   <groupId>com.tuya.android.module</groupId>
   <artifactId>tymodule-annotation</artifactId>
   <versioning>
-    <release>0.0.6</release>
+    <release>0.0.7</release>
     <versions>
       <version>0.0.4</version>
       <version>0.0.6</version>
+      <version>0.0.7</version>
     </versions>
-    <lastUpdated>20181225075834</lastUpdated>
+    <lastUpdated>20190723100031</lastUpdated>
   </versioning>
 </metadata>
