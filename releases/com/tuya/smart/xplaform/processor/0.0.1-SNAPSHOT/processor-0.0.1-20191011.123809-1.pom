@@ -2,14 +2,14 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.tuya.android.module</groupId>
-  <artifactId>tymodule-process</artifactId>
-  <version>0.1.0</version>
+  <groupId>com.tuya.smart.xplaform</groupId>
+  <artifactId>processor</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <dependencies>
     <dependency>
       <groupId>com.tuya.android.module</groupId>
       <artifactId>tymodule-annotation</artifactId>
-      <version>0.0.6</version>
+      <version>0.0.7.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.google.auto.service</groupId>
       <artifactId>auto-service</artifactId>
-      <version>1.0-rc6</version>
+      <version>1.0-rc4</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
