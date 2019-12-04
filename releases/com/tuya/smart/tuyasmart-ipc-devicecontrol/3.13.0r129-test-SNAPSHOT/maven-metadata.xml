@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tuya.smart</groupId>
+  <artifactId>tuyasmart-ipc-devicecontrol</artifactId>
+  <version>3.13.0r129-test-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191204.094824</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191204094824</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>3.13.0r129-test-20191204.094824-1</value>
+        <updated>20191204094824</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.13.0r129-test-20191204.094824-1</value>
+        <updated>20191204094824</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
