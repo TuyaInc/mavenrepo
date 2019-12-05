@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tuya.smart</groupId>
+  <artifactId>tuyasmart-ipc-videoview</artifactId>
+  <version>3.13.0r125-open-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191129.064809</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191129064809</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>3.13.0r125-open-20191129.064809-1</value>
+        <updated>20191129064809</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.13.0r125-open-20191129.064809-1</value>
+        <updated>20191129064809</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
