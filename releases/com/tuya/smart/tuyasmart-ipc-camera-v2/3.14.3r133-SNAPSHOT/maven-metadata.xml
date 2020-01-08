@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tuya.smart</groupId>
+  <artifactId>tuyasmart-ipc-camera-v2</artifactId>
+  <version>3.14.3r133-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200108.070601</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200108070601</lastUpdated>
+  </versioning>
+</metadata>
