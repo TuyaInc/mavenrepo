@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tuya.smart</groupId>
+  <artifactId>tuyasmart-react-native-svg</artifactId>
+  <versioning>
+    <release>3.14.0r131</release>
+    <versions>
+      <version>1.0.0r86</version>
+      <version>5.5.1</version>
+      <version>5.5.1h1</version>
+      <version>5.5.1h2</version>
+      <version>5.5.1h3</version>
+      <version>5.5.1r103-rc.1</version>
+      <version>5.5.1r101h1</version>
+      <version>5.5.1r103</version>
+      <version>3.11.5r119-rc.2</version>
+      <version>3.11.5r119</version>
+      <version>3.12.0r123-rc.1</version>
+      <version>5.5.1r103-rc.2</version>
+      <version>3.12.0r123</version>
+      <version>3.12.6r125-rc.1</version>
+      <version>3.12.6r125</version>
+      <version>3.14.0r131-rc.1</version>
+      <version>3.14.0r131-rc.2</version>
+      <version>3.14.0r131-rc.3</version>
+      <version>3.14.0r131-rc.4</version>
+      <version>3.14.0r131</version>
+    </versions>
+    <lastUpdated>20191224095154</lastUpdated>
+  </versioning>
+</metadata>
