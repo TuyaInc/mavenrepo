@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tuya.smart</groupId>
   <artifactId>tuyasmart-TuyaRNApi</artifactId>
-  <version>5.22.37-open</version>
+  <version>5.22.46-open</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -51,7 +51,7 @@
     <dependency>
       <groupId>com.tuya.smart.rnplugin</groupId>
       <artifactId>tyrctmusicmanager</artifactId>
-      <version>1.1.4-open</version>
+      <version>1.1.7-open</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
