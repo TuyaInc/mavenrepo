@@ -3,7 +3,7 @@
   <groupId>com.tuya.smart</groupId>
   <artifactId>tuyasmart-TuyaRNApi</artifactId>
   <versioning>
-    <release>5.22.49-open</release>
+    <release>5.22.50-open</release>
     <versions>
       <version>0.0.16</version>
       <version>0.0.17</version>
@@ -168,7 +168,8 @@
       <version>5.22.47-open</version>
       <version>5.22.48-open</version>
       <version>5.22.49-open</version>
+      <version>5.22.50-open</version>
     </versions>
-    <lastUpdated>20200118060643</lastUpdated>
+    <lastUpdated>20200205015128</lastUpdated>
   </versioning>
 </metadata>
