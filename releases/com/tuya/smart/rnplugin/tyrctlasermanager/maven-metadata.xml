@@ -3,7 +3,7 @@
   <groupId>com.tuya.smart.rnplugin</groupId>
   <artifactId>tyrctlasermanager</artifactId>
   <versioning>
-    <release>1.0.12</release>
+    <release>1.0.13</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -16,7 +16,9 @@
       <version>1.0.10</version>
       <version>1.0.11</version>
       <version>1.0.12</version>
+      <version>1.0.12-h1</version>
+      <version>1.0.13</version>
     </versions>
-    <lastUpdated>20200107094005</lastUpdated>
+    <lastUpdated>20200211052459</lastUpdated>
   </versioning>
 </metadata>
