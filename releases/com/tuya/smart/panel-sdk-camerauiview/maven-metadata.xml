@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tuya.smart</groupId>
+  <artifactId>panel-sdk-camerauiview</artifactId>
+  <versioning>
+    <versions>
+      <version>3.14.0r1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200224082946</lastUpdated>
+  </versioning>
+</metadata>

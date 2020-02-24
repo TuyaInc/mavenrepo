@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tuya.smart</groupId>
+  <artifactId>panel-sdk-ipc-camera-panelmore</artifactId>
+  <versioning>
+    <versions>
+      <version>3.14.0r1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200224083810</lastUpdated>
+  </versioning>
+</metadata>
