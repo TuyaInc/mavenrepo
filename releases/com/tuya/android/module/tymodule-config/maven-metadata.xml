@@ -3,7 +3,7 @@
   <groupId>com.tuya.android.module</groupId>
   <artifactId>tymodule-config</artifactId>
   <versioning>
-    <release>0.4.0</release>
+    <release>0.5.0</release>
     <versions>
       <version>0.2.4</version>
       <version>0.2.5</version>
@@ -15,7 +15,8 @@
       <version>0.3.7</version>
       <version>0.4.0-SNAPSHOT</version>
       <version>0.4.0</version>
+      <version>0.5.0</version>
     </versions>
-    <lastUpdated>20191011132119</lastUpdated>
+    <lastUpdated>20200327072149</lastUpdated>
   </versioning>
 </metadata>
